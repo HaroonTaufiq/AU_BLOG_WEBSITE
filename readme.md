@@ -2,6 +2,9 @@
 
 A full-stack blog application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and JWT authentication.
 
+![Home](./Home.png)
+![Login](./Login.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
