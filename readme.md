@@ -2,8 +2,8 @@
 
 A full-stack blog application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and JWT authentication.
 
-![Home](https://1drv.ms/i/s!AjqmU1a1BSPujglJZe-uCgflTzDW?e=1A4xb3)
-![Login](https://1drv.ms/i/s!AjqmU1a1BSPujgrIG_ZsIge_PLzy?e=OeBSvu)
+![Home](https://1drv.ms/i/s!AjqmU1a1BSPujglJZe-uCgflTzDW?e=wshfhx)
+![Login](hhttps://1drv.ms/i/s!AjqmU1a1BSPujgrIG_ZsIge_PLzy?e=N4yBjW)
 
 ## Table of Contents
 
@@ -109,5 +109,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 If you have any questions or feedback, feel free to reach out.
 
-GitHub: [https://github.com/HaroonTaufiq](https://github.com/HaroonTaufiq)
+GitHub: [HaroonTaufiq](https://github.com/HaroonTaufiq)
 Email: itx.haroon1@gmail.com
